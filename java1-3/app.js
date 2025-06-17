@@ -17,6 +17,9 @@ let alertString;
 alertString = addString("webcamp");
 alert(alertString)
 
+// 補足
+// 入力ダイアログで値を入力する
+let promptStr = prompt('何か好きな文字を入力してください。');
 
-
+alert(promptStr);
 
