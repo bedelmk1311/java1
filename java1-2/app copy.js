@@ -16,3 +16,10 @@ let str1 = "JavaScriptを覚えよう";
 // この後に alert(変数); を追記すれば、アラートウィンドウ上に表示
 
 alert(str1);
+
+// 四則演算の書き方(ほぼrubyと同じ)
+
+alert(4 + 3);
+alert(4 - 3);
+alert(4 * 3);
+alert(10 / 2);
