@@ -8,7 +8,7 @@
 // WinLose関数で勝ち負け判定
 let user_hand =prompt("じゃんけんの手をグー、チョキ、パーから選んでください。");
 let js_hand = getJShand();
-let judge winLose(user_hand, js_hand);
+let judge = winLose(user_hand, js_hand);
 
 //結果
 alert("選んだ手は" + user_hand + "\njavascriptの選んだ手は" + js_hand + "です \n結果は" + judge + "です。");
